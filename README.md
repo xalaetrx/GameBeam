@@ -2,6 +2,8 @@
 
 **GameBeam** (formerly Game Stream Pro) is a unified launcher and management tool for local game streaming. It integrates **Sunshine** (Host) and **Moonlight** (Client) into a single, user-friendly interface, making it easier than ever to set up your own high-performance remote gaming experience.
 
+This is a Dumb project btw !
+
 ## Purpose
 
 The primary goal of GameBeam is to simplify the process of setting up a local game stream. Instead of managing separate installations and command-line configurations, GameBeam provides:
